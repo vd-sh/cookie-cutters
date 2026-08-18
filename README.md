@@ -46,4 +46,4 @@ I designed each cutter in Onshape, exported as STEP files, and shipped them to H
 [cookie cutter 3](https://cad.onshape.com/documents/126236586f997718e71512a3/w/e0f0970f2bcedf026f500b45/e/85c5ee28585bf1e0bd14b74c)
 
 ## Photos of printed results
--coming soon
+coming soon
