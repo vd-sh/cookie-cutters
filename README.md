@@ -1,10 +1,9 @@
 # cookie-cutters
-Designed cookie cutters for the BakeBuild YSWS program by Hack Club. Just starting my journey with Hack Club!
+Designed cookie cutters for the BakeBuild YSWS program by Hack Club. Just starting my journey with Hack Club <https://github.com/hackclub> !
 
 ## About
 
-I designed these cookie cutters for the BakeBuild YSWS program by Hack Club. 
-This is my first project with Hack Club — I'm just starting my journey here.
+Hello, I am Vedant. I designed these cookie cutters for the BakeBuild YSWS program by Hack Club. This is my first project with Hack Club. I am just starting with GitHub too!
 
 ## What's in this repo?
 
