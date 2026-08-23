@@ -48,4 +48,4 @@ I designed each cutter in Onshape, exported as STEP files, and shipped them to H
 coming soon — once I get them shipped :)
 
 ## Notes
-Feel free to check my other repositotries and projects [here](https://github.com/vd-sh?tab=repositories) :)
+Feel free to check my other repositories and projects [here](https://github.com/vd-sh?tab=repositories) :)
