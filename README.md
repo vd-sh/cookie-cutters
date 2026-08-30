@@ -37,18 +37,18 @@ I designed each cutter in Onshape, exported as STEP files, and shipped them to H
 ![cookie cutter 3](Screenshot-2026-08-14-012025.png)
 
 ## The .step files
-- [cookie cutter 1](Cookie-Cutter-1.step)
+- [Cutter 1](Cookie-Cutter-1.step)
 
-- [cookie cutter 2](Cookie-Cutter-2.step)
+- [Cutter 2](Cookie-Cutter-2.step)
 
-- [cookie cutter 3](Cookie-Cutter-3.step)
+- [Cutter 3](Cookie-Cutter-3.step)
 
 ## The clickables to view them live in Onshape
-- [cookie cutter 1](https://cad.onshape.com/documents/48742a1481ec55967b4d5ffd/w/b9a18b38e6bc664d6011095e/e/83b0f16c2f3313b969ecf8cf)
+- [Cutter 1](https://cad.onshape.com/documents/48742a1481ec55967b4d5ffd/w/b9a18b38e6bc664d6011095e/e/83b0f16c2f3313b969ecf8cf)
 
-- [cookie cutter 2](https://cad.onshape.com/documents/afa470dbf9095d0e75139332/w/ddbc25f96dd87806abe0790a/e/04c4dd53b5cc922e2a031d65)
+- [Cutter 2](https://cad.onshape.com/documents/afa470dbf9095d0e75139332/w/ddbc25f96dd87806abe0790a/e/04c4dd53b5cc922e2a031d65)
 
-- [cookie cutter 3](https://cad.onshape.com/documents/126236586f997718e71512a3/w/e0f0970f2bcedf026f500b45/e/85c5ee28585bf1e0bd14b74c)
+- [Cutter 3](https://cad.onshape.com/documents/126236586f997718e71512a3/w/e0f0970f2bcedf026f500b45/e/85c5ee28585bf1e0bd14b74c)
 
 ## Photos of printed results
 coming soon — once I get them shipped :)
