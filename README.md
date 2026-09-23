@@ -26,22 +26,22 @@ I designed each cutter in Onshape, exported as STEP files, and shipped them to H
 ## The screenshots
 ### Cookie Cutter 1 
 
-![cookie cutter 1](Screenshot-2026-08-14-004449.png)
+![cookie cutter 1](Assets/Screenshot-2026-08-14-004449.png)
 
 ### Cookie Cutter 2 
 
-![cookie cutter 2](Screenshot-2026-08-14-011515.png)
+![cookie cutter 2](Assets/Screenshot-2026-08-14-011515.png)
 
 ### Cookie Cutter 3 
 
-![cookie cutter 3](Screenshot-2026-08-14-012025.png)
+![cookie cutter 3](Assets/Screenshot-2026-08-14-012025.png)
 
 ## The .step files
-- [Cutter 1](Cookie-Cutter-1.step)
+- [Cutter 1](Hardware/Cookie-Cutter-1.step)
 
-- [Cutter 2](Cookie-Cutter-2.step)
+- [Cutter 2](Hardware/Cookie-Cutter-2.step)
 
-- [Cutter 3](Cookie-Cutter-3.step)
+- [Cutter 3](Hardware/Cookie-Cutter-3.step)
 
 ## The clickables to view them live in Onshape
 - [Cutter 1](https://cad.onshape.com/documents/48742a1481ec55967b4d5ffd/w/b9a18b38e6bc664d6011095e/e/83b0f16c2f3313b969ecf8cf)
