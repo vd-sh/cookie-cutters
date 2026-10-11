@@ -3,7 +3,7 @@ Designed cookie cutters for the BakeBuild YSWS program by Hack Club. Just starti
 
 ## About
 
-Hello, I am Vedant. I designed these cookie cutters for the BakeBuild YSWS program by Hack Club. This is my first project with Hack Club. I am just starting with GitHub too!
+Hello, I am Vedant. I designed these cookie cutters for the BakeBuild YSWS program by Hack Club. This is my first Hack Club project. I am just starting with GitHub too!
 
 ## What's in this repo?
 
@@ -15,13 +15,13 @@ Hello, I am Vedant. I designed these cookie cutters for the BakeBuild YSWS progr
   
 ## Shapes
 
-- cutter 1- Jigsaw puzzle piece
-- cutter 2- Group of various basic shapes
-- cutter 3- Derived shapes
+- Cutter 1- Jigsaw puzzle piece
+- Cutter 2- Group of various basic shapes
+- Cutter 3- Derived shapes
 
-## How I made them?
+## How did I make them?
 
-I designed each cutter in Onshape, exported as STEP files, and shipped them to Hack Club for 3D printing on a standard desktop printer.
+I designed each cutter in Onshape, exported them as STEP files, and shipped them to Hack Club for 3D printing on a standard desktop printer.
 
 ## The screenshots
 ### Cookie Cutter 1 
@@ -51,7 +51,7 @@ I designed each cutter in Onshape, exported as STEP files, and shipped them to H
 - [Cutter 3](https://cad.onshape.com/documents/126236586f997718e71512a3/w/e0f0970f2bcedf026f500b45/e/85c5ee28585bf1e0bd14b74c)
 
 ## Photos of printed results
-coming soon — once I get them shipped :)
+Coming soon — once I get them shipped :)
 
 ## Notes
-Feel free to check my other repositories and latest projects [here](https://github.com/vd-sh?tab=repositories) :)
+Feel free to check my other repositories and latest projects [here](https://github.com/vd-sh) :)
