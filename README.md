@@ -1,12 +1,10 @@
 # cookie-cutters
-Designed cookie cutters for the BakeBuild YSWS program by Hack Club. Just starting my journey with [Hack Club](https://github.com/hackclub).
+Some cool, simple, and easily printable cookie cutters.
 
 ## About
-
-Hello, I designed these cookie cutters for the BakeBuild YSWS program by Hack Club. This is my first Hack Club project. I am just starting with GitHub too!
+Hello, this is my first GitHub repository.
 
 ## What's in this repo?
-
 - 3 cookie cutter designs, made in Onshape
 - .step files for anyone who wants to 3D print their own
 - Photos of the design
@@ -14,26 +12,21 @@ Hello, I designed these cookie cutters for the BakeBuild YSWS program by Hack Cl
 - Photos of printed results
   
 ## Shapes
-
 - Cutter 1- Jigsaw puzzle piece
 - Cutter 2- Group of various basic shapes
 - Cutter 3- Derived shapes
 
 ## How did I make them?
-
-I designed each cutter in Onshape, exported them as STEP files, and shipped them to Hack Club for 3D printing on a standard desktop printer.
+I designed each cutter in Onshape and exported them as STEP files for 3D printing on a standard desktop printer.
 
 ## The screenshots
 ### Cookie Cutter 1 
-
 ![cookie cutter 1](Assets/Screenshot-2026-08-14-004449.png)
 
 ### Cookie Cutter 2 
-
 ![cookie cutter 2](Assets/Screenshot-2026-08-14-011515.png)
 
 ### Cookie Cutter 3 
-
 ![cookie cutter 3](Assets/Screenshot-2026-08-14-012025.png)
 
 ## The .step files
