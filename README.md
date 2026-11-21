@@ -2,7 +2,7 @@
 Some cool, simple, and easily printable cookie cutters.
 
 ## About
-Hello, this is my first GitHub repository.
+Hello, this is my first GitHub repository. I designed each cutter from scratch in Onshape and exported them as STEP files for 3D printing on a standard desktop printer. These cookie cutters are printable without supports.
 
 ## What's in this repo?
 - 3 cookie cutter designs, made in Onshape
@@ -14,9 +14,6 @@ Hello, this is my first GitHub repository.
 1. Cutter 1- Jigsaw puzzle piece
 2. Cutter 2- Group of various basic shapes
 3. Cutter 3- Derived shapes
-
-## How did I make them?
-I designed each cutter in Onshape and exported them as STEP files for 3D printing on a standard desktop printer.
 
 ## The screenshots
 ### Cookie Cutter 1 
